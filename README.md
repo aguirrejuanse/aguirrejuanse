@@ -20,6 +20,6 @@ Soy un Full Stack Developer con orientación al Front-End y apasionado por el Ma
 • Google Tag Manager
 • Google Data Studio
 <br />
-Para contactarme puedes:
+## Para contactarme puedes:
 📲 Enviarme un WhatsApp: wa.link/fniufv
 📩 Enviarme un correo: juanseagui@gmail.com
