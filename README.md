@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hola, soy Juanse! 👋
 
-<!--
-**aguirrejuanse/aguirrejuanse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Full Stack Developer con orientación al Front-End y apasionado por el Marketing.
+Me formé como Developer en el bootcamp Soy Henry 🚀 y sigo capacitándome en Platzi 💚.
 
-Here are some ideas to get you started:
+## Las tecnologías que utilizo son:
+• JavaScript
+• React
+• Redux
+• CSS
+• HTML
+• GIT
+• NodeJS
+• Express
+• Wordpress
+• Google Ads
+• Google Analytics
+• Google Tag Manager
+• Google Data Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para contactarme puedes:
+📲 Enviarme un WhatsApp: wa.link/fniufv
+📩 Enviarme un correo: juanseagui@gmail.com
