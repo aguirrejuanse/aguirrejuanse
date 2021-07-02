@@ -25,4 +25,5 @@ Soy un Full Stack Developer con orientación al Front-End y apasionado por el Ma
 ## Para contactarme puedes:
 <br />
 📲 Enviarme un WhatsApp: wa.link/fniufv
+<br />
 📩 Enviarme un correo: juanseagui@gmail.com
