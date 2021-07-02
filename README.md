@@ -12,9 +12,9 @@ Soy un Full Stack Developer con orientación al Front-End y apasionado por el Ma
 • HTML
 • GIT
 <br />
-<br />
 • NodeJS
 • Express
+<br />
 • Wordpress
 • Google Ads
 • Google Analytics
