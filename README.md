@@ -11,7 +11,6 @@ Soy un Full Stack Developer con orientación al Front-End y apasionado por el Ma
 • CSS
 • HTML
 • GIT
-<br />
 • NodeJS
 • Express
 <br />
