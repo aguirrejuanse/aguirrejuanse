@@ -4,12 +4,15 @@ Soy un Full Stack Developer con orientación al Front-End y apasionado por el Ma
 <br /> Me formé como Developer en el bootcamp Soy Henry 🚀 y sigo capacitándome en Platzi 💚. <br />
 
 ## Las tecnologías que utilizo son:
+<br />
 • JavaScript
 • React
 • Redux
 • CSS
 • HTML
 • GIT
+<br />
+<br />
 • NodeJS
 • Express
 • Wordpress
@@ -17,7 +20,7 @@ Soy un Full Stack Developer con orientación al Front-End y apasionado por el Ma
 • Google Analytics
 • Google Tag Manager
 • Google Data Studio
-
+<br />
 Para contactarme puedes:
 📲 Enviarme un WhatsApp: wa.link/fniufv
 📩 Enviarme un correo: juanseagui@gmail.com
