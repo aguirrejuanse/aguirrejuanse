@@ -21,7 +21,6 @@ Soy un Full Stack Developer con orientación al Front-End y apasionado por el Ma
 • Google Data Studio
 <br />
 
-
 ## Proyectos
 
 ### [Videogames App](https://github.com/aguirrejuanse/PI-Videogames-FT13)
@@ -39,8 +38,12 @@ Algunas funcionalidades del proyecto:
 - Botón para ver los detalles del videojuego 
 - Agregar videojuegos a la sección favoritos.
 
+<p align="center" >
+    <img heigth="600" width="800" src="https://github.com/aguirrejuanse/PI-Videogames-FT13/blob/main/Home.jpg" />
+<p />
+
 ## Para contactarme puedes:
 <br />
-📲 Enviarme un WhatsApp: wa.link/fniufv
+📲 Enviarme un WhatsApp: [+54 261 369-4022](wa.link/fniufv)
 <br />
 📩 Enviarme un correo: juanseagui@gmail.com
