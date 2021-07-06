@@ -44,6 +44,8 @@ Algunas funcionalidades del proyecto:
 
 ## Para contactarme puedes:
 <br />
-📲 Enviarme un WhatsApp: [+54 261 369-4022](wa.link/fniufv)
+📲 Enviarme un WhatsApp: +54 261 369-4022 https://wa.link/fniufv
 <br />
 📩 Enviarme un correo: juanseagui@gmail.com
+<br />
+👤 Hablarme por LinkedIn: https://www.linkedin.com/in/juanseaguirre/
