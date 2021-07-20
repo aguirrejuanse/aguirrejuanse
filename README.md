@@ -1,6 +1,6 @@
 ### Hola, soy Juanse! 👋
 
-Soy un Full Stack Developer con orientación al Front-End y casi Técnico en Marketing (Tesis pendiente).
+Soy un Full Stack Developer con orientación al Front-End y con formación y experiencia en Marketing.
 <br /> Me gusta mezclar estos dos perfiles porque puedo entender la idea del negocio tanto en la parte estratégica como en la de desarrollo. 
 <br /> Me formé como Developer en el bootcamp Soy Henry 🚀 y sigo capacitándome en Platzi 💚.<br />
 <br />
