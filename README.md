@@ -1,4 +1,4 @@
-### Hola, soy Juanse! 👋
+# Hola, soy Juanse! 👋
 
 Soy un Full Stack Developer con orientación al Front-End y con formación y experiencia en Marketing.
 <br /> Me gusta mezclar estos dos perfiles porque puedo entender la idea del negocio tanto en la parte estratégica como en la de desarrollo. 
@@ -44,6 +44,17 @@ Algunas funcionalidades del proyecto:
 <p align="center" >
     <img heigth="600" width="800" src="https://github.com/aguirrejuanse/PI-Videogames-FT13/blob/main/Home.jpg" />
 <p />
+
+### [RocketXchange](https://github.com/andresf2448/Exchange-ProyectoFinal)
+
+RocketXchange es un exchange centralizado que permite conectar a las personas a una red donde pueden intercambiar sus activos por cualquier otra clase de divisas, tanto fiats como criptomonedas.
+Desarrollada de manera colaborativa con reuniones diarias entre los colaboradores y el team leader, realizando sprints semanales a un product owner donde se presentaba una demo con las nuevas funciones y características implementadas semana a semana.
+
+En la app podrás loguearte con tu cuenta de google, solicitar una verificación de dos pasos, ver en tiempo real el precio de las criptomonedas con más volumen de mercado. Además, crear tu propia wallet, ver tu balance, realizar transacciones y generar tanto depósitos como retiros bancarios.
+
+En trade podrás crear ofertas para comprar y vender tokens. También se brindará al usuario la mayor cantidad de información, ya sea a través de un conversor actualizado de divisas o el trading view.
+
+Como usuario, para operar deberás validar tu información personal a través de nuestro algoritmo de IA y también podrás invitar a otras personas para hacer uso de los beneficios de la app.
 
 ## Para contactarme puedes:
 <br />
