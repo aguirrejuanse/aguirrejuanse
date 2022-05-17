@@ -1,65 +1,27 @@
-# Hola, soy Juanse! 👋
+# Hey, I'm Juanse 👋🏻
 
-Soy un Full Stack Developer con orientación al Front-End y con formación y experiencia en Marketing.
-<br /> Me gusta mezclar estos dos perfiles porque puedo entender la idea del negocio tanto en la parte estratégica como en la de desarrollo. 
-<br /> Me formé como Developer en el bootcamp Soy Henry 🚀 y sigo capacitándome en Platzi 💚.<br />
-<br />
-Además me encanta el Motocross, el Paintball y la naturaleza.
+I’m a Junior Frontend Developer specialized in React projects and with studies and experience in Digital Marketing. 
 
-## Las tecnologías que utilizo son:
-<br />
-• JavaScript
-• React
-• Redux
-• CSS
-• HTML
-• GIT
-• NodeJS
-• Express
-<br />
-• Wordpress
-• Google Ads
-• Google Analytics
-• Google Tag Manager
-• Google Data Studio
-<br />
+Currently I’m living in Mendoza, Argentina, working remotely at Effectus Software — a mobile & web applications development agency and finishing my Marketing studies.
 
-## Proyectos
+I love teamwork and share my knowledge with others. 
 
-### [Videogames App](https://github.com/aguirrejuanse/PI-Videogames-FT13)
+In my freetime, I run dirt bike races and I enjoy nature. 
 
-Videogames App es una SPA (Single Page Application) en la que se puede ver distintos videojuegos con su información utilizando la API [RAWG](https://rawg.io/).
+# My stack 👨🏼‍💻
+<p dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" data-canonical-src="https://img.shields.io/badge/React-222222?style=flat&amp;logo=react" style="max-width: 100%;"></a> 
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" data-canonical-src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" data-canonical-src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" data-canonical-src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" data-canonical-src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;"></a>
+</p>
 
-Utilicé React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con Sass.
-La SPA consume los datos de [RAWG](https://rawg.io/) a través de un Back End desarrollado en Node.JS
-utilizando Express, agregando nuevas funcionalidades a la API original.
-
-Algunas funcionalidades del proyecto: 
-- Input de búsqueda de videojuegos por nombre
-- Ordenamientos y filtros
-- Formulario controlado para crear un videojuego
-- Botón para ver los detalles del videojuego 
-- Agregar videojuegos a la sección favoritos.
-
-<p align="center" >
-    <img heigth="600" width="800" src="https://github.com/aguirrejuanse/PI-Videogames-FT13/blob/main/Home.jpg" />
-<p />
-
-### [RocketXchange](https://github.com/andresf2448/Exchange-ProyectoFinal)
-
-RocketXchange es un exchange centralizado que permite conectar a las personas a una red donde pueden intercambiar sus activos por cualquier otra clase de divisas, tanto fiats como criptomonedas.
-Desarrollada de manera colaborativa con reuniones diarias entre los colaboradores y el team leader, realizando sprints semanales a un product owner donde se presentaba una demo con las nuevas funciones y características implementadas semana a semana.
-
-En la app podrás loguearte con tu cuenta de google, solicitar una verificación de dos pasos, ver en tiempo real el precio de las criptomonedas con más volumen de mercado. Además, crear tu propia wallet, ver tu balance, realizar transacciones y generar tanto depósitos como retiros bancarios.
-
-En trade podrás crear ofertas para comprar y vender tokens. También se brindará al usuario la mayor cantidad de información, ya sea a través de un conversor actualizado de divisas o el trading view.
-
-Como usuario, para operar deberás validar tu información personal a través de nuestro algoritmo de IA y también podrás invitar a otras personas para hacer uso de los beneficios de la app.
-
-## Para contactarme puedes:
-<br />
-📲 Enviarme un WhatsApp: +54 261 369-4022 https://wa.link/fniufv
-<br />
-📩 Enviarme un correo: juanseagui@gmail.com
-<br />
-👤 Hablarme por LinkedIn: https://www.linkedin.com/in/juanseaguirre/
+# Find me! 📱
+<p dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="mailto: juanseagui@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/juanseaguirre/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
+</p>
