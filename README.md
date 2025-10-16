@@ -1,6 +1,6 @@
 # Hey, I'm Juanse 👋🏻
 
-A Software Developer specializing in React.js and Next.js projects with education and experience in Digital Marketing. I like to mix these fields because I can understand the business from the marketing and development areas.
+Software Developer with 5 years of experience leading React and NextJS projects. Experienced in building scalable web and mobile solutions. Marketing background enhances business insight and fosters a stronger connection between technology, users and client goals.
 
 Currently I’m living in Mendoza, Argentina, working remotely at Effectus Software — a mobile & web applications development agency.
 
