@@ -2,7 +2,7 @@
 
 Product Software Engineer with 5 years of experience building and shipping products end-to-end, from architecture to user impact. Experienced across frontend, backend, and cloud infrastructure, with a strong focus on solving complex business problems and delivering scalable solutions. My background in marketing brings a product-oriented perspective that connects technology, users, and business goals.
 
-Currently I’m living in Mendoza, Argentina, working remotely at Effectus Software — a mobile & web applications development agency.
+Currently I’m living in Mendoza, Argentina 🇦🇷, working remotely. I love teamwork and sharing my knowledge with others. 
 
 I love teamwork and share my knowledge with others. 
 
