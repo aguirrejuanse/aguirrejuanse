@@ -1,6 +1,6 @@
 # Hey, I'm Juanse 👋🏻
 
-Product Software Engineer with 5 years of experience leading React and NextJS projects. Experienced in building scalable web and mobile solutions. Marketing background enhances business insight and fosters a stronger connection between technology, users and client goals.
+Product Software Engineer with 5 years of experience building and shipping products end-to-end, from architecture to user impact. Experienced across frontend, backend, and cloud infrastructure, with a strong focus on solving complex business problems and delivering scalable solutions. My background in marketing brings a product-oriented perspective that connects technology, users, and business goals.
 
 Currently I’m living in Mendoza, Argentina, working remotely at Effectus Software — a mobile & web applications development agency.
 
